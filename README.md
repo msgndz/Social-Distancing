@@ -1,18 +1,11 @@
-# Social-distance-with-yolo-v3-v4-v5s
+# Social Distancing
 
-Programı çalıştırmak için :
-1-Python Spyder veya diğer Python kütüphaneleri kullanılabilir.
-2-Ya da KOMUT İSTEMCİSİ çalıştırılır.
+For the program: 1-Python Spyder or other Python libraries can be used. 2-Or run the COMMAND CLIENT.
 
- KOMUT İSTEMCİSİ için:
-c:\Klasör_yolu\yolo_version.py --input avm.mp4 şeklinde çalışıtırılır.
+For COMMAND CLIENT: Execute as c:\Folder_path\yolo_version.py --input avm.mp4.
 
-YOLOv3 ve YOLOv4 kodlamaları aynıdır.
-YOLOv4 çalıştırmak için YOLOv4 weight ve cfg dosyalarının eklenmesi yeterlidir.
+For YOLOv4, it will be sufficient to load the weight and cfg file of the YOLOv4 model to the path of the YOLOv3.py file.
 
-Bilgisayarda NVIDIA CUDNN kurulu olursa NVIDIA'nın GPU'su kullanılcaktır.
-(Bilgisayarın NVIDIA'ı destekleyen herhangi bir ekran kartının olması gerekmektedir.)
-Aksi taktirde bilgisayarımızın Ekran kartı kullanılacaktır. Bu da performansın
-çok yavaş olmasına sebep olacaktır.
+NVIDIA's GPU with NVIDIA CUDNN installed on the computer will be used. (The computer must have a NVIDIA video card.) It is possible that we planned otherwise. This will not contribute much to the performance.
 
-ALAN BELİRLEMEK İÇİN : Eklenecek videoya bağlı olarak ALAN sınırlarını kendiniz önceden kod ortamına gireceksiniz.
+TO DETERMINE FIELD: Depending on the video to be added, you will manually enter the FIELD boundaries into the code environment.
