@@ -5,7 +5,7 @@ Programı çalıştırmak için :
 2-Ya da KOMUT İSTEMCİSİ çalıştırılır.
 
  KOMUT İSTEMCİSİ için:
-c:\Klasör_yolu\yolo_version.py --input videos/avm.mp4 şeklinde çalışıtırılır.
+c:\Klasör_yolu\yolo_version.py --input avm.mp4 şeklinde çalışıtırılır.
 
 YOLOv3 ve YOLOv4 kodlamaları aynıdır.
 YOLOv4 çalıştırmak için YOLOv4 weight ve cfg dosyalarının eklenmesi yeterlidir.
