@@ -1,0 +1,16 @@
+Kodlama PYTHON ve OPENCV kullanýlarak yazýlmýþtýr.
+
+Programý çalýþtýrmak için :
+1-Python Spyder veya diðer Python kütüphaneleri kullanýlabilir.
+2-Ya da KOMUT ÝSTEMCÝSÝ çalýþtýrýlýr.
+
+ KOMUT ÝSTEMCÝSÝ için:
+c:\Klasör_yolu\yolo_version.py --input videos/avm.mp4 þeklinde çalýþýtýrýlýr.
+
+Bilgisayarda NVIDIA CUDNN kurulu olursa NVIDIA'nýn GPU'su kullanýlcaktýr.
+(Bilgisayarýn NVIDIA'ý destekleyen herhangi bir ekran kartýnýn olmasý gerekmektedir.)
+Aksi taktirde bilgisayarýmýzýn Ekran kartý kullanýlacaktýr. Bu da performansýn
+çok yavaþ olmasýna sebep olacaktýr.
+
+Eklenecek videoya baðlý olarak alan belirleme iþlemini kendiniz önceden kod ortamýna gireceksiniz.
+
